@@ -1,0 +1,10 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.mdstecnologia.eucomproonline",
+    "sha256_cert_fingerprints":
+    ["50:E4:A9:41:15:54:41:9F:80:76:17:4C:FE:98:51:EF:20:3D:99:4D:1B:29:37:C7:E7:A4:EE:BD:28:62:F2:13"]
+  }
+}]
+    
